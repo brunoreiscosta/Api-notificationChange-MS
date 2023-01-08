@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.195
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "msgraphapp", "msgraphapp.csproj", "{4F21FA16-5AF0-43E8-95BF-224EB7587C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F21FA16-5AF0-43E8-95BF-224EB7587C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F21FA16-5AF0-43E8-95BF-224EB7587C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F21FA16-5AF0-43E8-95BF-224EB7587C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F21FA16-5AF0-43E8-95BF-224EB7587C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD205391-5AC4-4DB3-90F0-C6CD46D8CC52}
+	EndGlobalSection
+EndGlobal
